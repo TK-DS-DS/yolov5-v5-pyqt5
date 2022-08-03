@@ -9,8 +9,10 @@ pip install -r requirements.txt
 ```
 
 
+
+![demo_img](https://imgbed-niu.tkcraft.cn/typora-markdown/demo_img.png)
+
 ![demo_video](https://imgbed-niu.tkcraft.cn/typora-markdown/demo_video.png)
 
 ![demo_cam](https://imgbed-niu.tkcraft.cn/typora-markdown/demo_cam.png)
 
-![demo_img](https://imgbed-niu.tkcraft.cn/typora-markdown/demo_img.png)
