@@ -8,6 +8,7 @@
 pip install -r requirements.txt
 ```
 
+2、运行main.py
 
 
 ![demo_img](https://imgbed-niu.tkcraft.cn/typora-markdown/demo_img.png)
